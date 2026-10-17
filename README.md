@@ -1,4 +1,4 @@
-Check all NVIDIA GPU stats:
-In Command Prompt, type the command: nvidia-smi -q
+Check all NVIDIA GPU stats:</br>
+In Command Prompt, type the command: ```nvidia-smi -q```
 
 To show some basic GPU stats in tabular format, use the batch script: [Click](/Nvidia-gpu-stats.bat)
